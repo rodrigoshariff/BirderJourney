@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="SearchTextBox_margin">64dp</dimen>
+    <dimen name="detail_backdrop_height">463dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="fab_margin">32dp</dimen>
+    <dimen name="list_item_avatar_height">90dp</dimen>
+    <dimen name="list_item_avatar_width">80dp</dimen>
+    <dimen name="widget_avatar_height">45dp</dimen>
+    <dimen name="widget_avatar_width">40dp</dimen>
+    <dimen name="list_item_title_text_size">22sp</dimen>
+    <dimen name="widget_default_width">200dp</dimen>
+    <dimen name="widget_default_height">165dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+</resources>
